@@ -1,0 +1,31 @@
+year,make,model
+2020,Toyota,Camry
+2019,Ford,F-150
+2021,Honda,Civic
+2018,Chevrolet,Impala
+2022,Tesla,Model 3
+2023,Nissan,Altima
+2017,BMW,3 Series
+2022,Audi,A4
+2021,Mercedes-Benz,C-Class
+2018,Lexus,RX
+2019,Hyundai,Sonata
+2020,Kia,Optima
+2017,Volkswagen,Jetta
+2023,Porsche,911
+2022,Jeep,Wrangler
+2021,Subaru,Outback
+2018,Mazda,CX-5
+2019,Dodge,Charger
+2020,Ford,Mustang
+2017,Chevrolet,Camaro
+2022,Toyota,RAV4
+2021,Honda,Accord
+2018,Nissan,Rogue
+2019,Tesla,Model S
+2023,BMW,X5
+2017,Audi,Q7
+2022,Mercedes-Benz,E-Class
+2021,Lexus,ES
+2020,Hyundai,Elantra
+2018,Kia,Sorento
